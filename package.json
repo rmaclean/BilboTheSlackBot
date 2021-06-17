@@ -1,0 +1,14 @@
+{
+  "name": "bilbo",
+  "version": "0.0.1",
+  "description": "Bilbo, we are going on an adventure",
+  "author": "Robert MacLean <robert@sadev.co.za>",
+  "license": "Unlicense",
+  "dependencies": {
+    "@slack/bolt": "^3.4.0",
+    "dotenv": "^10.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
